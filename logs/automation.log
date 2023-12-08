@@ -1,0 +1,6 @@
+16:56:53.480 [main] INFO  testCases.AccountRegistration - ***Starting account registration****
+16:56:53.672 [main] INFO  testCases.AccountRegistration - ****Clicked on my account****
+16:56:56.505 [main] INFO  testCases.AccountRegistration - ****Clicked register****
+16:56:56.511 [main] INFO  testCases.AccountRegistration - ****filling details****
+16:57:08.482 [main] INFO  testCases.AccountRegistration - ****Clicked on continue****
+ 
